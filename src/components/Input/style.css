@@ -1,0 +1,17 @@
+.input {
+}
+
+.input_label {
+    display: block;
+    background-color: white;
+}
+
+.input_labelText {
+    display: block;
+}
+
+.input_error {
+    display: block;
+    color: red;
+    font-size: 12px;
+}
